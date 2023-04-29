@@ -15,5 +15,7 @@ Beginning Game AI with Unity
 
 ![screenshot](ai.png)
 
+# Path
 
+- Agent walking on a plane made of walkable waypoints to reach goal 
 
