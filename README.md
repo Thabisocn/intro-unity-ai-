@@ -24,5 +24,5 @@ Beginning Game AI with Unity
 
 - Path navigation optimised with Navigation mesh and A* search algorithm
 
-![Navmesh+A*.png](ai.png)
+![screenshot](Navmesh+A*.png)
 
