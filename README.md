@@ -15,7 +15,14 @@ Beginning Game AI with Unity
 
 ![screenshot](ai.png)
 
-# Path
+# Path(Breadth first search)
 
-- Agent walking on a plane made of walkable waypoints to reach goal 
+- Breadth first search algorithm was used together with a waypoint system to create a path system. The navigation  wasnt smooth because of the waypoint system navigation to optimise our agent's movement we used Navmesh with A* search algorithm 
+
+
+# A* + Nav mesh
+
+- Path navigation optimised with Navigation mesh and A* search algorithm
+
+![Navmesh+A*.png](ai.png)
 
