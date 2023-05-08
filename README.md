@@ -1,6 +1,5 @@
 
 
-aivv.webm
 
 
 # Introduction Ai npc movement
@@ -25,4 +24,20 @@ Beginning Game AI with Unity
 - Path navigation optimised with Navigation mesh and A* search algorithm
 
 ![screenshot](Navmesh+A*.png)
+
+
+# A* || Nav mesh || Finite state machines
+
+- Using FSM i created a Guard agent with 3 states 
+
+* patrol
+* investigate
+* chase
+
+Our guard navigates our plane using The navmesh and navmesh agent we talked about above  
+
+- Since its Guard against player Our player can trigger a Guard Investigation by knocking which changes our  guards state from patrol to investgate where the sound comes from .
+
+
+# AI movement
 
