@@ -28,13 +28,13 @@ Beginning Game AI with Unity
 
 # A* || Nav mesh || Finite state machines
 
-- Using FSM i created a Guard agent with 3 states 
+- Using FSM i created a Guard agent with 3 states  
 
 * patrol
 * investigate
 * chase
 
-Our guard navigates our plane using The navmesh and navmesh agent we talked about above  
+Our guard navigates our plane using The navmesh and navmesh agent we talked about above.We gave our guard sense of seeing by using Field of view (FOV)  so he can track the player.
 
 - Since its Guard against player Our player can trigger a Guard Investigation by knocking which changes our  guards state from patrol to investgate where the sound comes from .
 
