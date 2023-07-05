@@ -11,6 +11,7 @@
 Beginning Game AI with Unity
 
 # Screenshots
+[aivv.webm](https://github.com/Thabisocn/intro-unity-ai-/assets/55186310/b0650334-d97d-41cf-8fb0-c2c87c460d26)
 
 ![screenshot](ai.png)
 
@@ -20,6 +21,7 @@ Beginning Game AI with Unity
 
 
 # A* + Nav mesh
+[FSM.webm](https://github.com/Thabisocn/intro-unity-ai-/assets/55186310/fca08424-ed18-4adf-b583-a6a61871f5c6)
 
 - Path navigation optimised with Navigation mesh and A* search algorithm
 
@@ -27,6 +29,7 @@ Beginning Game AI with Unity
 
 
 # A* || Nav mesh || Finite state machines
+[Screencast from 2023-05-08 19-25-30.webm](https://github.com/Thabisocn/intro-unity-ai-/assets/55186310/08b3c63a-052f-41a5-8bac-c13c2c3be326)
 
 - Using FSM i created a Guard agent with 3 states  
 
