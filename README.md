@@ -21,7 +21,8 @@ Beginning Game AI with Unity
 
 
 # A* + Nav mesh
-[FSM.webm](https://github.com/Thabisocn/intro-unity-ai-/assets/55186310/fca08424-ed18-4adf-b583-a6a61871f5c6)
+[Screencast from 2023-05-04 18-54-52.webm](https://github.com/Thabisocn/intro-unity-ai-/assets/55186310/5a64f39d-3545-4fb1-b931-16c9827e3e80)
+
 
 - Path navigation optimised with Navigation mesh and A* search algorithm
 
